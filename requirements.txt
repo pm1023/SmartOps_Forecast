@@ -1,0 +1,14 @@
+# Data handling
+pandas
+numpy
+matplotlib
+
+# Time Series Forecasting
+statsmodels
+tensorflow
+
+# RL & Gym
+gym
+
+# Visualization & Dashboard
+streamlit
